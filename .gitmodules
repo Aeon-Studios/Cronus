@@ -1,0 +1,4 @@
+[submodule "ABS"]
+	path = ABS
+	url = git@github.com:Aeon-Studios/Aeon-Build-Systems.git
+	branch = C
